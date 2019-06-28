@@ -1,0 +1,4 @@
+---- 127.0.0.* Matches (3 in 3 files) ----
+QTSSDemoAuthorizationModule.cpp (APIModules\QTSSDemoAuthorizationModule.bproj) line 35 :                     <PREF NAME="IPAccessList" >127.0.0.*</PREF>
+streamingserver.xml line 557 : 	<PREF NAME="IPAccessList">127.0.0.*</PREF>
+streamingserver.xml (WinNTSupport) line 559 : 	<PREF NAME="IPAccessList">127.0.0.*</PREF>
